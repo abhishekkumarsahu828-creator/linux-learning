@@ -10,6 +10,7 @@ echo "2.Delete file"
 echo "3.Check Files"
 echo "4.List files"
 echo "5.Exit"
+echo "6. Help"
 
 read -p "Enter your choice" choice
 
