@@ -11,6 +11,9 @@ echo "3.Check Files"
 echo "4.List files"
 echo "5.Exit"
 echo "6. Help"
+echo " testing git  stash"
+
+
 
 read -p "Enter your choice" choice
 
