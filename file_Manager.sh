@@ -67,6 +67,10 @@ case $choice in
 	echo "Exit............"
 	exit 0
 	;;
+
+	6)
+	echo "What type of help you want please inform me in this details"
+	;;
 	*)
 	echo "Invalid Choice "
 	;;
